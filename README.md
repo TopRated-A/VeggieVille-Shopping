@@ -1,6 +1,5 @@
 <h2 align="center">
   VeggieVille Online Vegetable shopping Website<br/>
-  <a href="https://github.com/AlexanderCruciata" target="_blank">AlexanderCruciata</a>
 </h2>
 
 This Project is Online shopping for grocery (Vegetables and fruits ) fresh from farmers which is build using Reactjs and backend as Firebase Cloud, featuring a user-friendly interface, essential functionalities like user registration, login, shopping cart. The platform is built on the React.js framework and employs technologies such as CORS, Axios, and Mongoose.
